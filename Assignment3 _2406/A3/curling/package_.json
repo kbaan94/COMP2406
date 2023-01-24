@@ -1,0 +1,14 @@
+{
+  "name": "curling",
+  "version": "1.0.0",
+  "description": "This is curling game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "ilan87",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
