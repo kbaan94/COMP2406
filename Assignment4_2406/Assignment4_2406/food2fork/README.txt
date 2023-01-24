@@ -1,8 +1,8 @@
-Name: Khaled Banjaki
+Name: Khaled
 
-Student number: 101058264
+Student number: ##########
 
-e-mail address: khaledbanjaki@cmail.carleton.ca
+e-mail address:###########
 
 node.js version number: v10.15.0
 
